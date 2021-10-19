@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class ConnectFour {
     public static void main(String[] args) {
 
+        // variables
         Scanner scanner = new Scanner(System.in);
         int turn = 0;
         int userColumn;
