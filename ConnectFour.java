@@ -4,6 +4,7 @@ public class ConnectFour {
     public static void main(String[] args) {
 
         // variables
+        // i hope this works
         Scanner scanner = new Scanner(System.in);
         int turn = 0;
         int userColumn;
