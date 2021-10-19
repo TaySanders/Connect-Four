@@ -5,6 +5,7 @@ public class ConnectFour {
 
         // variables
         // i hope this works
+        // pt 2 hope it works
         Scanner scanner = new Scanner(System.in);
         int turn = 0;
         int userColumn;
